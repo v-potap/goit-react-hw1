@@ -1,0 +1,15 @@
+.pricingPlan {
+  display: flex;
+  margin: 20px auto;
+  width: 960px;
+  list-style: none;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.item {
+  width: 20%;
+  height: 100%;
+  padding: 45px;
+  box-shadow: 1vw 1vh 1vw 1vw grey;
+}

@@ -1,0 +1,30 @@
+.pricingItem {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.icon {
+}
+
+.label {
+  text-transform: uppercase;
+}
+
+.capacity {
+  text-transform: uppercase;
+}
+
+.description {
+  color: darkgrey;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.button {
+  border: none;
+  cursor: pointer;
+  height: 50px;
+}
